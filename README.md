@@ -1,4 +1,6 @@
-# JawwayTV_Rocummendation_System
+# JawwayTV Rocummendation System
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rapidtvnews.com%2F2018061252472%2Fintigral-readies-for-jawwy-tv-launch-with-arris-tie-up.html&psig=AOvVaw0YfBWClXy46wVcHoix86Ve&ust=1645203006553000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi0x_qYh_YCFQAAAAAdAAAAABAD)
 Recommender systems are among the most popular applications of data science today. They are used to predict “best next action” for a customer or “rating of preference” that a user would give to items. here I build a content based recommendation engine
 
 # 1. The Dataset
@@ -19,7 +21,7 @@ The dataset is basically a collection extracted from  <a href="https://lab.stc.c
 # 2. Data cleaning
 * I Removed all null values using fillna
 
-# 2. Data preparing 
+# 3. Method 
 * For each of these users, we extract their whatching history using there unique ID.
 * Build word2vec Embeddings for Program name
 * Visualize word2vec Embeddings
