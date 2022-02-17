@@ -1,6 +1,6 @@
 # JawwayTV Rocummendation System
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F125678645831295851%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%26simplified%3Dtrue&psig=AOvVaw0YfBWClXy46wVcHoix86Ve&ust=1645203006553000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi0x_qYh_YCFQAAAAAdAAAAABAW)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.eyeofriyadh.com%2Fnews%2Fdetails%2Fintigral-rewards-five-winners-from-jawwy-tv-subscribers&psig=AOvVaw0YfBWClXy46wVcHoix86Ve&ust=1645203006553000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi0x_qYh_YCFQAAAAAdAAAAABAa)
 
 Recommender systems are among the most popular applications of data science today. They are used to predict “best next action” for a customer or “rating of preference” that a user would give to items. here I build a content based recommendation engine
 
