@@ -23,7 +23,7 @@ The dataset is basically a collection extracted from  <a href="https://lab.stc.c
 * All null values was removed by using fillna
 
 ## 3. Method 
-* For each of these users, we extract their whatching history using there unique ID.
+* For each of these users, we extract their watching history using their unique ID.
 * Build word2vec Embeddings for Program name
 * Visualize word2vec Embeddings
 * Recommending Programes to the usesrs based on similarity of program descrepston and program names
